@@ -1,0 +1,18 @@
+body, button {
+  margin:auto;
+  width:300px;
+}
+.square {
+  width:20px;
+  height:20px;
+  background-color:blue;
+  display:inline-block;
+}
+
+html {
+  line-height:0;
+}
+
+.highlight{
+  background-color:red;
+}
